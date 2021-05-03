@@ -1,0 +1,80 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: rgb(253, 86, 86);
+}
+h2{
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: -30px;
+}
+.hello{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.hire{
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    font-weight: 600;
+    padding: 2%;
+}
+.hero{
+    margin-bottom: 5%;
+}
+.pic1{
+    width: 35%;
+    float: right;
+    height: 300px;
+    margin-right: 250px;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 700px;
+}
+.pic2{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.description{
+    width: 35%;
+    float: right;
+    height: 300px;
+    margin: 150px 250px 0px 0px;
+}
+h3{
+    font-size: 30px;
+}
+.second-sec{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.second-p{
+    padding-bottom: 10px;
+}
+.cv{
+    text-decoration: none;
+    background-color: salmon;
+    color: white;
+    font-weight: 600;
+    padding: 2%;
+}
+#work{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+.latest-pic{
+    margin: 15% 10%;
+    
+}
