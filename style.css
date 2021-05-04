@@ -109,6 +109,8 @@ h3{
 .footer1 #quote{
     font-weight: 500;
     padding-bottom: 80px;
+    max-width: 50%;
+    margin-left: 25%;
 }
 .contact{
     background-color: rgb(245, 126, 105);
